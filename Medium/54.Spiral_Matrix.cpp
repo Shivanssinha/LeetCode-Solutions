@@ -4,13 +4,11 @@ using namespace std;
 // Problem: 54. Spiral Matrix
 // Difficulty: Medium
 // Platform: LeetCode
-//
 // Intuition:
 // The spiral order traversal can be simulated by maintaining four boundaries:
 // top, bottom, left, and right.
 // At each step, we traverse one side of the current boundary and then shrink it.
 // This continues until all elements are visited.
-//
 // Approach:
 // 1. Initialize four pointers: top, bottom, left, right.
 // 2. Traverse from left to right along the top row, then move top down.
