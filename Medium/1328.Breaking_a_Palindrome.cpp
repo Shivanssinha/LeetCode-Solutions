@@ -5,12 +5,10 @@ using namespace std;
 // Difficulty: Medium
 // Approach: Greedy
 // Platform: LeetCode
-//
 // Intuition:
 // To make the palindrome non-palindromic while keeping it lexicographically smallest,
 // we should try to change the earliest possible character to the smallest character ('a').
 // Only the first half needs to be checked because palindromes are symmetric.
-//
 // Approach:
 // 1. If the string length is 1, it is impossible to break the palindrome, so return "".
 // 2. Traverse only the first half of the string.
