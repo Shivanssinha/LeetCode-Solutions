@@ -17,13 +17,6 @@ using namespace std;
 //      - Otherwise move nums[j] steps from j.
 // 3. Use modulo (%) to wrap around the array.
 // 4. Handle negative modulo results by adding n.
-//
-// Common Mistakes:
-// - Forgetting circular behavior (going out of bounds).
-// - Using modulo directly on negatives without fixing index.
-// - Modifying the original array instead of using a new one.
-// - Forgetting that movement can be forward or backward.
-//
 // Time Complexity: O(n)
 // Space Complexity: O(n)
 
