@@ -8,6 +8,7 @@ public:
             if(v[j] == 0)c0++;
             if(v[j] == 1)c1++;
             if(v[j] == 2)c2++;
+            //yoyo
         }
         for(int j = 0;j<v.size();j++){
             if(j<c0)v[j] = 0;
