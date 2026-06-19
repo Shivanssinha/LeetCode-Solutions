@@ -13,7 +13,7 @@ public:
                 count++;
                 i++;
             }
-
+// YO YO
             chars[write++] = curr;
 
             if (count > 1) {
