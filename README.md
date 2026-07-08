@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0443-string-compression](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0443-string-compression) |
 ## Hash Table
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 ## Simulation
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
