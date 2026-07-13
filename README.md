@@ -191,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0079-word-search) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
