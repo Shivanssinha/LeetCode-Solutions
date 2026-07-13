@@ -11,7 +11,7 @@ public:
                 }
             }
             if(count %3 != 0){
-                ans += 1<<i;
+                ans += 1LL<<i;
             }
         }
         return ans;
