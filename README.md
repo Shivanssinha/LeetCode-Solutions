@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0410-split-array-largest-sum](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Depth-First Search
 |  |
