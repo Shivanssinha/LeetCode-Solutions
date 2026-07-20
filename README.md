@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [1260-shift-2d-grid](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1260-shift-2d-grid](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1901-find-a-peak-element-ii](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Math
 |  |
