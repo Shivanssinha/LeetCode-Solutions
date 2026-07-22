@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 ## Backtracking
 |  |
@@ -235,6 +237,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
