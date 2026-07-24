@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [1922-count-good-numbers](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Depth-First Search
 |  |
 | ------- |
