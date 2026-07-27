@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [0443-string-compression](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [1021-remove-outermost-parentheses](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Hash Table
 |  |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [0507-perfect-number](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1903-largest-odd-number-in-string](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
