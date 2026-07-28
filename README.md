@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0242-valid-anagram](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [0443-string-compression](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0796-rotate-string) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
