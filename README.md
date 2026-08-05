@@ -322,4 +322,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0877-stone-game) |
+## Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
