@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Enumeration
 |  |
 | ------- |
@@ -325,13 +326,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
