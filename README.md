@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0207-course-schedule](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
@@ -385,9 +386,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
