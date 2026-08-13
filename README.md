@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1020-number-of-enclaves](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 ## Matrix
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0542-01-matrix) |
+| [1020-number-of-enclaves](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1901-find-a-peak-element-ii](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Math
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 ## Enumeration
 |  |
 | ------- |
@@ -397,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
