@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0127-word-ladder](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0542-01-matrix) |
@@ -419,4 +422,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0207-course-schedule) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
