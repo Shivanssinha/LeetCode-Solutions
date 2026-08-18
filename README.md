@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
