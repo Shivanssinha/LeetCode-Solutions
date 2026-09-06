@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 ## Enumeration
 |  |
@@ -428,16 +429,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -446,4 +450,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0127-word-ladder) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
