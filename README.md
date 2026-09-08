@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 ## Breadth-First Search
 |  |
@@ -460,4 +461,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
