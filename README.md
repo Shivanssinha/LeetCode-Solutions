@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1020-number-of-enclaves](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0904-fruit-into-baskets](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
