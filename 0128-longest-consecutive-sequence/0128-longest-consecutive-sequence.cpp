@@ -3,10 +3,8 @@ public:
     int longestConsecutive(vector<int>& nums) {
         int n = nums.size();
         int longest = 0;
-        unordered_set<int> st;
-        for(int j = 0;j<n;j++){
-            st.insert(nums[j]);
-        }
+        unordered_set<int> st(nums.begin(),nums.end());
+        
         for(auto x : st){
             if(st.find(x - 1) == st.end()){
                 int y = x;
