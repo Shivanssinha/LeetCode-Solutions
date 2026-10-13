@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3903-smallest-stable-index-i](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Recursion
 |  |
 | ------- |
