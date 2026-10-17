@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0324-wiggle-sort-ii](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0455-assign-cookies) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0324-wiggle-sort-ii](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0455-assign-cookies) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -215,11 +218,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -440,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -450,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Sliding Window
 |  |
@@ -555,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Combinatorics
 |  |
 | ------- |
