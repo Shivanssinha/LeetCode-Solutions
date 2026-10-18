@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0455-assign-cookies) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0202-happy-number](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0282-expression-add-operators](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [0507-perfect-number](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -599,4 +602,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
