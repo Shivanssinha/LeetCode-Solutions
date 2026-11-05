@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1755-closest-subsequence-sum](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1755-closest-subsequence-sum) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1755-closest-subsequence-sum](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1755-closest-subsequence-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
