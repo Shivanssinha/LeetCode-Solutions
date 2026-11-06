@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2574-left-and-right-sum-differences](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2747-count-zero-request-servers](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-closest-subsequence-sum](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1755-closest-subsequence-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
+| [2747-count-zero-request-servers](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2747-count-zero-request-servers](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
 ## Game Theory
 |  |
 | ------- |
