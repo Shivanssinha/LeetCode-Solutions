@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Shivanssinha/LeetCode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Recursion
 |  |
 | ------- |
